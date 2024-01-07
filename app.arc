@@ -1,5 +1,5 @@
 @app
-grunge-stack-template
+remix-grunge-stack-jpnbd-b4ed
 
 @aws
 runtime nodejs18.x
